@@ -21,17 +21,17 @@
           }
       body {
         text-align: left;
-        margin-left: 10%; 
+        margin-left: 10%; /* Задание отступа слева */
         margin-left: 5%;
       }
       .content {
         text-align: left;
-        margin-top: 10%; 
+        margin-top: 10%; /* Задание отступа слева */
         margin-left: 5%;
       }
       .content3 {
         text-align: left;
-        margin-top: 5%; 
+        margin-top: 5%; /* Задание отступа слева */
         margin-left: 5%;
       }
       
@@ -56,12 +56,10 @@
               >
              <li><a class="dropdown-item" href="https://1103.api.green-api.com/waInstance1103101910/getStateInstance/543574faf1c34c698deff269a4616c80f4dd38e3a5a942b2b2"   
             a>getStateInstance</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
+                      
+          
+        
+</nav>
     <div class="content">
     <button id="sendMessageButton">sendMessage</button>
         <script>
@@ -126,10 +124,9 @@
             });
         });
     </script>
-     </div> 
-     <br>
-     <body>
-      <pre id="responseOutput"> &lt;&gt;
     </body>
-  </body>
-</html>
+    <br>
+    <br><br>
+        <pre id="responseOutput"> &lt;&gt;
+      
+  </html>
