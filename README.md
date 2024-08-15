@@ -126,9 +126,9 @@
             });
         });
     </script>
-     </div>  
-     <P></P>
-    <body>
+     </div> 
+     <br>
+     <body>
       <pre id="responseOutput"> &lt;&gt;
     </body>
   </body>
