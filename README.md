@@ -21,17 +21,17 @@
           }
       body {
         text-align: left;
-        margin-left: 10%; /* Задание отступа слева */
+        margin-left: 10%; 
         margin-left: 5%;
       }
       .content {
         text-align: left;
-        margin-top: 10%; /* Задание отступа слева */
+        margin-top: 10%; 
         margin-left: 5%;
       }
       .content3 {
         text-align: left;
-        margin-top: 5%; /* Задание отступа слева */
+        margin-top: 5%; 
         margin-left: 5%;
       }
       
@@ -126,7 +126,8 @@
             });
         });
     </script>
-     </div>    
+     </div>  
+     <P></P>
     <body>
       <pre id="responseOutput"> &lt;&gt;
     </body>
