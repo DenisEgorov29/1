@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="UTF-8" />
@@ -84,7 +83,6 @@
           </ul>
         </div>
       </div>
-    </nav>
     <div class="content">
       <button id="sendMessageButton">sendMessage</button>
       <script>
@@ -144,5 +142,4 @@
     </div>
     <br /><br />
     <pre id="responseOutput"> &lt;&gt;</pre>
-  </body>
 </html>
